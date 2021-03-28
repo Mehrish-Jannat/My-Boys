@@ -1,0 +1,21 @@
+h1{
+    color:#00ffff
+}
+
+.TopThing{
+    border: solid;
+    background-color:#fff0f5;
+    display:flex; 
+    justify-content:space-between
+}
+
+h2,p{
+    text-align:center
+}
+
+.imagething{
+    padding: 50px;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
